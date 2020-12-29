@@ -1,5 +1,5 @@
 {
-  "name": "redditcli",
+  "name": "subreddits",
   "version": "1.0.0",
   "description": "Peruse Reddit from the terminal",
   "main": "index.js",
