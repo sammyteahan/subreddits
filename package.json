@@ -1,7 +1,7 @@
 {
   "name": "subreddits",
   "version": "1.0.0",
-  "description": "Peruse Reddit from the terminal",
+  "description": "Peruse Reddit from the terminal with `npx subreddits`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,9 @@
   },
   "keywords": [
     "reddit",
-    "reddit-cli"
+    "reddit-cli",
+    "subreddit",
+    "subreddits"
   ],
   "author": "sammy teahan",
   "license": "MIT",
