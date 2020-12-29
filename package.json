@@ -1,0 +1,29 @@
+{
+  "name": "redditcli",
+  "version": "1.0.0",
+  "description": "Peruse Reddit from the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "subreddits": "index.js"
+  },
+  "keywords": [
+    "reddit",
+    "reddit-cli"
+  ],
+  "author": "sammy teahan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "cli-welcome": "^2.2.2",
+    "data.either": "^1.5.2",
+    "data.task": "^3.1.2",
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
+    "meow": "^8.1.0",
+    "ora": "^5.1.0"
+  }
+}
